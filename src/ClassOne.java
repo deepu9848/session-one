@@ -1,4 +1,4 @@
-public class ClassOne {
+public class refrigerator {
     /* status
     ->Brand
     ->Size
