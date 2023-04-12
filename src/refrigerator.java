@@ -1,4 +1,4 @@
-public class refrigerator {
+public class fridge {
     /* status
     ->Brand
     ->price
